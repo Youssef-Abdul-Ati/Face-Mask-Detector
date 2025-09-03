@@ -333,9 +333,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Connect & Follow
 
-- **Portfolio**: [Your Portfolio Website]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **GitHub**: [Your GitHub Profile]
-- **Email**: [your.email@domain.com]
+- **Portfolio**: [https://copy-of-elevate-your-car-05u7f0a.gamma.site/]
+- **LinkedIn**: [https://www.linkedin.com/in/youssef-abdul-ati/]
 
-*Ready to make a difference through AI-powered health technology!* 💪
